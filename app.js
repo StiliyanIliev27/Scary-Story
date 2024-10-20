@@ -1,5 +1,6 @@
 window.addEventListener("load", solve);
 
+//Add new comment
 function solve() {
   let firstNameElement = document.getElementById("first-name");
   let lastNameElement = document.getElementById("last-name");
